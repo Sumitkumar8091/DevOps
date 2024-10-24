@@ -1,2 +1,0 @@
-hello my name is sumit kumar
-this is demo file to check that my local repo is connected to global GitHub or not
